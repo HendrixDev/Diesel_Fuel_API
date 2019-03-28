@@ -1,0 +1,10 @@
+C:\Users\zack.MWB\source\repos\FuelAPI\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\zack.MWB\source\repos\FuelAPI\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\zack.MWB\source\repos\FuelAPI\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\zack.MWB\source\repos\FuelAPI\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\zack.MWB\source\repos\FuelAPI\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\zack.MWB\source\repos\FuelAPI\DemoLibrary\obj\Debug\DemoLibrary.pdb
+C:\Users\zack.MWB\source\repos\FuelAPI\DemoLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zack.MWB\source\repos\FuelAPI\DemoLibrary\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\zack.MWB\source\repos\FuelAPI\DemoLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zack.MWB\source\repos\FuelAPI\DemoLibrary\obj\Debug\DemoLibrary.csproj.CopyComplete
